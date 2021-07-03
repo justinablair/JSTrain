@@ -1,4 +1,4 @@
 # JSTrain
 JavaScriptTraining
 
-This Repo is for colloboration on the JS training.
+This Repo is for collaboration on the JS training.
